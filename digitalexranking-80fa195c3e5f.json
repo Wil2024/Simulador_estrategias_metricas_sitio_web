@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "digitalexranking",
+  "private_key_id": "80fa195c3e5ff35f96d7142398f214f44f2b89ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzlL1237m4i9fg\nuRW21WxcKUFhzb35i1low0L4oKLdLqyJDNpt1Um2todKPqvCxAdmWv5mABbNDSpN\nIS/Z4WH2fkajDBjAoSY5RQ1brtMJTroFsE2Py3eSBoZmJ653S7MLpDjpSjO+S7bq\nrWpH6KCQSodFjKMC/syDrnu3RljCFWPeEFUbQHg5EoDQoT+Q6FXb7EPLc/FaeMwO\nGxGO0ZeaZ3hELknRli5ZQ1u98U1/v7vf5kUbRzOmsBEd6U7Q8eahkF8kkvWs4ECB\nCHmqSmFt/6fvDH1qoxvRL6rjIhkbuEKaI7F3icfx1CyPy5nGFAFq+LBliL3BvMI8\nem07S5i1AgMBAAECggEAV8RULOr+++Ds6xnKMQdx5EENgV1qgbHHStpTuuvXbT5I\neNrdTly1oCTpTjH/BDuGWlISj4tvmVvb1sJnfpcWp7/jigB5gHvCEK9c7fgtkBj3\n9ZvK7IJGuAmUWgz+ybMnmIL0haAMVe7vQRbsIKTjBGJIZodrjCU3kwwNzu8EpiW3\nULSKd8M4a+WCjDpDI6668CkYlPiGbSP56vvvNsQQmIUj0TxvzrLBzB0cXoF+tyRb\nm76HV7rIgLjf6JxHf2/HhgRZL658RV+BFnneC3/ar7m9oOkBGRl68/N2zCSlkizu\nggSCPYQjdDrJRGOptbxk8u/Z1JRBOvML6PDnpTlX6QKBgQDu3tGCeHBr41R7Z3Nr\nUme7vQ3F+bSelaveaFgPBITG4lLqXq5YPdUQDNeaAc5d4c8Z4cv8wveRAmM3OG+q\nQdbUl3ahhVcc6kJbZl6g8X/5zlo14GkV7evOHdTy4UJgsXWHvqjqlYHEZgGCIcDP\n84cXKh20raNmktOuzBLocqLhJwKBgQDAdXzZ7DfmvsfEuLresuPpdovwXg4SAAmp\ntBn7mN5Ah5Fg6WHRzk2PCKtPMHn7CoiYqBH6Sb9qqo4pL6j9U3iv4Ipgow6Lqma6\nGsihKbm/NXhrwP54hr//uvGkr0B2xieMx+v7Ds1jmOF4zY+nrutE5MqTlqmO4aL9\norf7iRQowwKBgF4rz/Mc4k1WYR8JiNI9uZGlFcIAELoYjZpwDo9VG7eA0Gl/jEJT\nliTuuy0HG0Gd3VT51L7AanNruouxnyxDKpvDXsyM0ewfWqvH7vSKYQat2Ji28Rbp\nJnarAiICtnWCYLB0dQmOiYtRH7Ua83XIL3DtdKqfbfTpW7Tk1Wt4jkgvAoGAZGam\nLFWT0BdkxdaM/hKa3TdPx6R5eKB2agafq2ZTQ5y1lbYKptYWFfEy1Uv3xqP3IJRF\nVKnWZwH0yb2oTgeWpUHhToqh0vChSKMiWRkYYoy1dpkm5598WB+hYgVe/tde2I2P\nKNjPAw9FSK0MLTEOYVFt8NKfP/+r9N9HVbxsPNsCgYEAxwOa3hwWL8YHyxPmBnTe\n7CZMVVCGf3LKFkDJqbFsFCjIZe3K1fu08k9mV42sR5bbqkl/yvJyQ8AI0m7S2axK\n+gYc1DV5ZHeVrEEhgn1xwjKBPE2txjmqEHeX14iOIG99to+niVU4avNhwytmQzFw\nZM129wX9YPw11KSgaAllGLY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "digitalex-ranking@digitalexranking.iam.gserviceaccount.com",
+  "client_id": "102079251132092262822",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/digitalex-ranking%40digitalexranking.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
